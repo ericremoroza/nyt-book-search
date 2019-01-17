@@ -1,0 +1,14 @@
+.navBarThingy {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #000;
+    min-height: 65px;
+    width: 100%;
+    color: #fff;
+    font-size: 2em;
+    font-weight: bold;
+    z-index: 99;
+    list-style-type: none;
+    text-align: center;
+}
